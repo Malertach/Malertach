@@ -4,7 +4,7 @@
 - 👀 I’m interested in 
   - Games :video_game:
   - Technology :rocket:
-- 🌱 I’m currently learning to create games with the [Godot Engine](https://godotengine.org).
+- 🌱 I’m currently learning [Rust:crab:](https://www.rust-lang.org/) as a promising C/C++ alternative.
 
 <!---
 Malertach/Malertach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
